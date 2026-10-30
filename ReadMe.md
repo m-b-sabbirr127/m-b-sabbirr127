@@ -12,12 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=m-b-sabbirr127&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-b-sabbirr127&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-b-sabbirr127&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-b-sabbirr127&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=m-b-sabbirr127&icon=0&color=blue)](https://visitcount.itsvg.in)
