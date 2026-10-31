@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on DSA<br>👯 I’m looking to collaborate on Open Source Software, Algorithmic Tools & Backend Systems<br>🤝 I’m looking for help with Advanced Graph Algorithms & System Design Fundamentals<br>🌱 I’m currently learning Advanced C++, Dynamic Programming, & High-Performance System Architecture<br>💬 Ask me about Competitive Programming (Codeforces, BeeCrowd, Toph), C/C++, & Data Structures<br>⚡ Fun fact: I can spend hours debugging an edge-case for a single Accepted verdict on Codeforces!
 
 
